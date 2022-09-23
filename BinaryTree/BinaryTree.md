@@ -25,6 +25,3 @@ function traverse(root: TreeNode): void {
   // 后序位置
 }
 ```
-
-### 
-
